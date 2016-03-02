@@ -1,0 +1,164 @@
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\ProgrammingAssignment3.exe
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\ProgrammingAssignment3.pdb
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\MonoGame.Framework.dll
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.dll
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.XInput.dll
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\MonoGame.Framework.xml
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.xml
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.XInput.xml
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.csprojResolveAssemblyReference.cache
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.exe
+D:\Dropbox\Courses\GDD 1200\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.pdb
+C:\Users\Albert\Dropbox\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.exe
+C:\Users\Albert\Dropbox\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.pdb
+C:\Users\Albert\Dropbox\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\ProgrammingAssignment3.exe
+C:\Users\Albert\Dropbox\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\ProgrammingAssignment3.pdb
+C:\Users\Albert\Dropbox\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Albert\Dropbox\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Albert\Dropbox\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.dll
+C:\Users\Albert\Dropbox\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Albert\Dropbox\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Albert\Dropbox\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Albert\Dropbox\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Albert\Dropbox\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Albert\Dropbox\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Albert\Dropbox\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Albert\Dropbox\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Albert\Dropbox\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Albert\Dropbox\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.xml
+C:\Users\Albert\Dropbox\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Albert\Dropbox\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Albert\Dropbox\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Albert\Dropbox\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Albert\Dropbox\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Albert\Dropbox\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Albert\Dropbox\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Albert\Dropbox\Programming Assignments MonoGame\Programming Assignment 3\blackboard\Windows\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.exe
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.pdb
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.exe
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.pdb
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\Content\Graphics\greenrock.xnb
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\Content\Graphics\magentarock.xnb
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\Content\Graphics\whiterock.xnb
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\ProgrammingAssignment3.exe
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\ProgrammingAssignment3.pdb
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.dll
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.xml
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Austin Milam\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.exe
+C:\Users\Matt\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.pdb
+C:\Users\Matt\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\Content\Graphics\greenrock.xnb
+C:\Users\Matt\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\Content\Graphics\magentarock.xnb
+C:\Users\Matt\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\Content\Graphics\whiterock.xnb
+C:\Users\Matt\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\ProgrammingAssignment3.exe
+C:\Users\Matt\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\ProgrammingAssignment3.pdb
+C:\Users\Matt\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Matt\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Matt\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.dll
+C:\Users\Matt\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Matt\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Matt\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Matt\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Matt\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Matt\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Matt\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Matt\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Matt\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Matt\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.xml
+C:\Users\Matt\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Matt\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Matt\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Matt\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Matt\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Matt\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Matt\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Matt\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.csprojResolveAssemblyReference.cache
+C:\Users\Chase\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\Content\Graphics\greenrock.xnb
+C:\Users\Chase\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\Content\Graphics\magentarock.xnb
+C:\Users\Chase\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\Content\Graphics\whiterock.xnb
+C:\Users\Chase\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\ProgrammingAssignment3.exe
+C:\Users\Chase\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\ProgrammingAssignment3.pdb
+C:\Users\Chase\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Chase\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Chase\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.dll
+C:\Users\Chase\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Chase\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Chase\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Chase\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Chase\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Chase\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Chase\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Chase\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Chase\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Chase\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.xml
+C:\Users\Chase\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Chase\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Chase\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Chase\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Chase\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Chase\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Chase\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Chase\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.csprojResolveAssemblyReference.cache
+C:\Users\Chase\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.exe
+C:\Users\Chase\Documents\GitHub\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.pdb
+E:\School\GDD\Programming Projects\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.exe
+E:\School\GDD\Programming Projects\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.pdb
+E:\School\GDD\Programming Projects\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\Content\Graphics\greenrock.xnb
+E:\School\GDD\Programming Projects\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\Content\Graphics\magentarock.xnb
+E:\School\GDD\Programming Projects\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\Content\Graphics\whiterock.xnb
+E:\School\GDD\Programming Projects\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\ProgrammingAssignment3.exe
+E:\School\GDD\Programming Projects\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\ProgrammingAssignment3.pdb
+E:\School\GDD\Programming Projects\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\MonoGame.Framework.dll
+E:\School\GDD\Programming Projects\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\School\GDD\Programming Projects\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.dll
+E:\School\GDD\Programming Projects\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\School\GDD\Programming Projects\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\School\GDD\Programming Projects\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\School\GDD\Programming Projects\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\School\GDD\Programming Projects\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.XInput.dll
+E:\School\GDD\Programming Projects\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\School\GDD\Programming Projects\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\School\GDD\Programming Projects\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\MonoGame.Framework.xml
+E:\School\GDD\Programming Projects\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\School\GDD\Programming Projects\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.xml
+E:\School\GDD\Programming Projects\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\School\GDD\Programming Projects\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\School\GDD\Programming Projects\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\School\GDD\Programming Projects\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\School\GDD\Programming Projects\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.XInput.xml
+E:\School\GDD\Programming Projects\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\School\GDD\Programming Projects\ProgrammingAssignment3\ProgrammingAssignment3\bin\Windows\Debug\SharpDX.Direct3D9.xml
+E:\School\GDD\Programming Projects\ProgrammingAssignment3\ProgrammingAssignment3\obj\x86\Debug\ProgrammingAssignment3.csprojResolveAssemblyReference.cache
